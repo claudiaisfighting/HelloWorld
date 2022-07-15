@@ -28,11 +28,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Here are some challenges I met when I was building the MyIntro app:
+* I spent some time figuring out how to customize my app such as background color, image shape and etc.
+* It took me amlong time to understand how to use git to submit my homework. For example: I met a problem "git pull failed" which made me feel really confused and struggled because in the video there wasn't any problem like that. Luckily, I found out the answer in stackoverflow and fixed it successfully. And now I'm feeling like it would be much better if we can find answers by ourselves rather than simply follwing tutorials. The ability of self-leaning is also important during the learning process.  
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [Claudia Wei] 
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
